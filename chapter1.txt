@@ -1,1 +1,7 @@
 This is the best day. This is the worst day.
+
+for git:
+
+1. git init
+2. gt add filename
+3. git commit -m "message"
